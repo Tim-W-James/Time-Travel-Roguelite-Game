@@ -77,7 +77,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 #### Demo Video:
-[![Demo Video](https://img.youtube.com/vi/9QV3YlMHT-4/0.jpg)](https://www.youtube.com/watch?v=9QV3YlMHT)
+[![Demo Video](https://img.youtube.com/vi/9QV3YlMHT-4/0.jpg)](https://www.youtube.com/watch?v=9QV3YlMHT-4)
 <br>
 Explore unique procedurally generated levels and search for the exit, while fighting enemies and dodging traps as you go. 
 There is also a treasure room hidden somewhere in the level, and a challenge room before the exit.
