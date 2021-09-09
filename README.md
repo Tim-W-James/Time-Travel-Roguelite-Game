@@ -185,8 +185,8 @@ Project Link: [https://github.com/Tim-W-James/Time-Travel-Roguelite-Game](https:
 [stars-url]: https://github.com/Tim-W-James/Time-Travel-Roguelite-Game/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Tim-W-James/Time-Travel-Roguelite-Game.svg?style=for-the-badge
 [issues-url]: https://github.com/Tim-W-James/Time-Travel-Roguelite-Game/issues
-[license-shield]: https://img.shields.io/github/license/Tim-W-James/Time-Travel-Roguelite-Game.svg?style=for-the-badge
-[license-url]: https://github.com/Tim-W-James/Time-Travel-Roguelite-Game/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/Tim-W-James/Time-Travel-Roguelite-Game?style=for-the-badge
+[license-url]: https://github.com/Tim-W-James/Time-Travel-Roguelite-Game/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/timothy-william-james/
 [product-screenshot]: images/screenshot.png
