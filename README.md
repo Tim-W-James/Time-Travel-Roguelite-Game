@@ -28,10 +28,10 @@
   <p align="center">
     A prototype game with procedurally generated levels and time manipulation mechanics.
     <br />
-<!--     <a href="https://github.com/Tim-W-James/Time-Travel-Roguelite-Game"><strong>Explore the docs »</strong></a>
+    <a href="https://docs.google.com/document/d/1brkjiMgB8urmjMZFrbpasWn8Yp-qtIZmtJwBFIAfaxo/view?usp=sharing"><strong>Explore the desgin doc »</strong></a>
     <br /> 
-    <br /> -->
-    <a href="https://github.com/Tim-W-James/Time-Travel-Roguelite-Game/tree/main/_Demo">View Demo</a>
+    <br />
+    <a href="https://github.com/Tim-W-James/Time-Travel-Roguelite-Game/releases">Download Demo</a>
 <!--     ·
     <a href="https://github.com/Tim-W-James/Time-Travel-Roguelite-Game/issues">Report Bug</a> -->
 <!--     ·
@@ -76,7 +76,9 @@
 ## About The Project
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-
+#### Demo Video:
+[![Demo Video](https://img.youtube.com/vi/9QV3YlMHT-4/0.jpg)](https://www.youtube.com/watch?v=9QV3YlMHT)
+<br>
 Explore unique procedurally generated levels and search for the exit, while fighting enemies and dodging traps as you go. 
 There is also a treasure room hidden somewhere in the level, and a challenge room before the exit.
 Each hit you take will reduce your HP, but you can find pickups in the level that will increase your HP.
@@ -108,8 +110,8 @@ Your melee attack becomes a shield, your fireball becomes a barrier that reflect
 
 ### Running the Demo
 
-For a `.exe` application built for `Windows x86-64`, find the latest version in the [Demo](https://github.com/Tim-W-James/Time-Travel-Roguelite-Game/tree/main/_Demo) folder. 
-Download the entire folder and run the `Project Velocity PGP Prototype.exe`. 
+For a `.exe` application built for `Windows x86-64`, find the latest version in the [Releases](https://github.com/Tim-W-James/Time-Travel-Roguelite-Game/releases) tab. 
+Download and extract the entire folder and run the `Project Velocity PGP Prototype.exe`.
 The application supports standard Windows GamePads (e.g., XBox 360 controllers) and they will automatically be detected.
 
 ### Controls
@@ -183,7 +185,7 @@ Project Link: [https://github.com/Tim-W-James/Time-Travel-Roguelite-Game](https:
 [license-shield]: https://img.shields.io/github/license/Tim-W-James/Time-Travel-Roguelite-Game.svg?style=for-the-badge
 [license-url]: https://github.com/Tim-W-James/Time-Travel-Roguelite-Game/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+[linkedin-url]: https://linkedin.com/in/timothy-william-james/
 [product-screenshot]: images/screenshot.png
 
 <!-- USEFUL LINKS FOR MARKDOWN
