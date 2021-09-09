@@ -87,6 +87,9 @@ Use melee attacks, fireballs and your dash abilities to defeat enemies.
 You can also slow down time temporarily, during which you will be able to move at full speed but enemies and projectiles will be slowed.
 While time is slowed your abilities are modified. 
 Your melee attack becomes a shield, your fireball becomes a barrier that reflects enemy projectiles, and your dash becomes a blink that makes you invulnerable.
+<br>
+<br>
+A design doc can be found on Google Docs [here](https://docs.google.com/document/d/1brkjiMgB8urmjMZFrbpasWn8Yp-qtIZmtJwBFIAfaxo/view?usp=sharing). This details a plan for a game with a wider scope than the current prototype.
 
 ### Features
 * Grid based procedurally generated levels (rooms will be arranged differently each time)
