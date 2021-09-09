@@ -1,0 +1,568 @@
+fileFormatVersion: 2
+guid: 3c534cd35b1364d45b82eefd6a4b42f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: spr_explosion_0
+  - first:
+      213: 21300002
+    second: spr_explosion_1
+  - first:
+      213: 21300004
+    second: spr_explosion_2
+  - first:
+      213: 21300006
+    second: spr_explosion_3
+  - first:
+      213: 21300008
+    second: spr_explosion_4
+  - first:
+      213: 21300010
+    second: spr_explosion_5
+  - first:
+      213: 21300012
+    second: spr_explosion_6
+  - first:
+      213: 21300014
+    second: spr_explosion_7
+  - first:
+      213: 21300016
+    second: spr_explosion_8
+  - first:
+      213: 21300018
+    second: spr_explosion_9
+  - first:
+      213: 21300020
+    second: spr_explosion_10
+  - first:
+      213: 21300022
+    second: spr_explosion_11
+  - first:
+      213: 21300024
+    second: spr_explosion_12
+  - first:
+      213: 21300026
+    second: spr_explosion_13
+  - first:
+      213: 21300028
+    second: spr_explosion_14
+  - first:
+      213: 21300030
+    second: spr_explosion_15
+  - first:
+      213: 21300032
+    second: spr_explosion_16
+  - first:
+      213: 21300034
+    second: spr_explosion_17
+  - first:
+      213: 21300036
+    second: spr_explosion_18
+  - first:
+      213: 21300038
+    second: spr_explosion_19
+  - first:
+      213: 21300040
+    second: spr_explosion_20
+  - first:
+      213: 21300042
+    second: spr_explosion_21
+  - first:
+      213: 21300044
+    second: spr_explosion_22
+  - first:
+      213: 21300046
+    second: spr_explosion_23
+  - first:
+      213: 21300048
+    second: spr_explosion_24
+  - first:
+      213: 21300050
+    second: spr_explosion_25
+  - first:
+      213: 21300052
+    second: spr_explosion_26
+  - first:
+      213: 21300054
+    second: spr_explosion_27
+  - first:
+      213: 21300056
+    second: spr_explosion_28
+  - first:
+      213: 21300058
+    second: spr_explosion_29
+  - first:
+      213: 21300060
+    second: spr_explosion_30
+  - first:
+      213: 21300062
+    second: spr_explosion_31
+  - first:
+      213: 21300064
+    second: spr_explosion_32
+  - first:
+      213: 21300066
+    second: spr_explosion_33
+  - first:
+      213: 21300068
+    second: spr_explosion_34
+  - first:
+      213: 21300070
+    second: spr_explosion_35
+  - first:
+      213: 21300072
+    second: spr_explosion_36
+  - first:
+      213: 21300074
+    second: spr_explosion_37
+  - first:
+      213: 21300076
+    second: spr_explosion_38
+  - first:
+      213: 21300078
+    second: spr_explosion_39
+  - first:
+      213: 21300080
+    second: spr_explosion_40
+  - first:
+      213: 21300082
+    second: spr_explosion_41
+  - first:
+      213: 21300084
+    second: spr_explosion_42
+  - first:
+      213: 21300086
+    second: spr_explosion_43
+  - first:
+      213: 21300088
+    second: spr_explosion_44
+  - first:
+      213: 21300090
+    second: spr_explosion_45
+  - first:
+      213: 21300092
+    second: spr_explosion_46
+  - first:
+      213: 21300094
+    second: spr_explosion_47
+  - first:
+      213: 21300096
+    second: spr_explosion_48
+  - first:
+      213: 21300098
+    second: spr_explosion_49
+  - first:
+      213: 21300100
+    second: spr_explosion_50
+  - first:
+      213: 21300102
+    second: spr_explosion_51
+  - first:
+      213: 21300104
+    second: spr_explosion_52
+  - first:
+      213: 21300106
+    second: spr_explosion_53
+  - first:
+      213: 21300108
+    second: spr_explosion_54
+  - first:
+      213: 21300110
+    second: spr_explosion_55
+  - first:
+      213: 21300112
+    second: spr_explosion_56
+  - first:
+      213: 21300114
+    second: spr_explosion_57
+  - first:
+      213: 21300116
+    second: spr_explosion_58
+  - first:
+      213: 21300118
+    second: spr_explosion_59
+  - first:
+      213: 21300120
+    second: spr_explosion_60
+  - first:
+      213: 21300122
+    second: spr_explosion_61
+  - first:
+      213: 21300124
+    second: spr_explosion_62
+  - first:
+      213: 21300126
+    second: spr_explosion_63
+  - first:
+      213: 21300128
+    second: spr_explosion_64
+  - first:
+      213: 21300130
+    second: spr_explosion_65
+  - first:
+      213: 21300132
+    second: spr_explosion_66
+  - first:
+      213: 21300134
+    second: spr_explosion_67
+  - first:
+      213: 21300136
+    second: spr_explosion_68
+  - first:
+      213: 21300138
+    second: spr_explosion_69
+  - first:
+      213: 21300140
+    second: spr_explosion_70
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_explosion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79c865d7f5d760429356436f9c72729
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_explosion_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0854dabe5f336e44b7dbf1be1bafa6e
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_explosion_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d592dc679a5ab45beb0795d453e0bc
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_explosion_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe481c68c0fa5643aa6d3357a0ac702
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_explosion_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b844a59b28deaa49b83aa3e431806c5
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_explosion_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ec8ff8618f04048957b39784a850f2
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_explosion_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2758a87cbd61c498f131e63f9cf680
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_explosion_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a59350ff7b59534b8cecb4c6bdf624e
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_explosion_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8422e58732e86b4a9f3b8e0e4d67d9c
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_explosion_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f85714787832b84fb12c38b04084da2
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_explosion_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3986866dbc1b9c04db38688101885b0e
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_explosion_11
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1deb49433e457aa4ebfcb7f2727d097a
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 653827a636fb95f44a8609b52eb68fdb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
