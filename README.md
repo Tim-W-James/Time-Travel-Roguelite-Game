@@ -57,7 +57,6 @@
       <ul>
 <!--         <li><a href="#prerequisites">Prerequisites</a></li> -->
         <li><a href="#running-the-demo">Running the Demo</a></li>
-        <li><a href="#how-to-play">How to Play</a></li>
         <li><a href="#controls">Controls</a></li>
         <li><a href="#development">Development</a></li>
 <!--         <li><a href="#example-usecases">Example Usecases</a></li> -->
@@ -78,7 +77,14 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-About text.
+Explore unique procedurally generated levels and search for the exit, while fighting enemies and dodging traps as you go. 
+There is also a treasure room hidden somewhere in the level, and a challenge room before the exit.
+Each hit you take will reduce your HP, but you can find pickups in the level that will increase your HP.
+Use melee attacks, fireballs and your dash abilities to defeat enemies. 
+<br><br>
+You can also slow down time temporarily, during which you will be able to move at full speed but enemies and projectiles will be slowed.
+While time is slowed your abilities are modified. 
+Your melee attack becomes a shield, your fireball becomes a barrier that reflects enemy projectiles, and your dash becomes a blink that makes you invulnerable.
 
 ### Features
 * Grid based procedurally generated levels (rooms will be arranged differently each time)
@@ -86,10 +92,14 @@ About text.
 * Top-down bullet-hell gameplay
 * 2D lighting
 * Pixel perfect rendering
+* Gamepad support with rumble
+* Contextual audio
 
 ### Built With
 
 * [Unity3D 2019.3.0b9](https://unity.com/)
+* C#
+* Visual Studio Code
 
 
 
@@ -101,16 +111,6 @@ About text.
 For a `.exe` application built for `Windows x86-64`, find the latest version in the [Demo](https://github.com/Tim-W-James/Time-Travel-Roguelite-Game/tree/main/_Demo) folder. 
 Download the entire folder and run the `Project Velocity PGP Prototype.exe`. 
 The application supports standard Windows GamePads (e.g., XBox 360 controllers) and they will automatically be detected.
-
-### How to Play
-
-Explore unique procedurally generated levels and search for the exit, while fighting enemies and dodging traps as you go. 
-There is also a treasure room hidden somewhere in the level, and a challenge room before the exit.
-Each hit you take will reduce your HP, but you can find pickups in the level that will increase your HP.
-Use melee attacks, fireballs and your dash abilities to defeat enemies. <br><br>
-You can also slow down time temporarily, during which you will be able to move at full speed but enemies and projectiles will be slowed.
-While time is slowed your abilities are modified. 
-Your melee attack becomes a shield, your fireball becomes a barrier that reflects enemy projectiles, and your dash becomes a blink that makes you invulnerable.
 
 ### Controls
 
