@@ -174,7 +174,7 @@ Project Link: [https://github.com/Tim-W-James/Time-Travel-Roguelite-Game](https:
 [release-shield]: https://img.shields.io/github/v/release/Tim-W-James/Time-Travel-Roguelite-Game.svg?include_prereleases&style=for-the-badge
 [release-url]: https://github.com/Tim-W-James/Time-Travel-Roguelite-Game/releases
 [last-commit-shield]: https://img.shields.io/github/last-commit/Tim-W-James/Time-Travel-Roguelite-Game.svg?style=for-the-badge
-[last-commit-url]: https://github.com/Tim-W-James/Time-Travel-Roguelite-Game/last-commit
+[last-commit-url]: https://github.com/Tim-W-James/Time-Travel-Roguelite-Game/commits/main
 [contributors-shield]: https://img.shields.io/github/contributors/Tim-W-James/Time-Travel-Roguelite-Game.svg?style=for-the-badge
 [contributors-url]: https://github.com/Tim-W-James/Time-Travel-Roguelite-Game/graphs/contributors
 [contributors-shield]: https://img.shields.io/github/contributors/Tim-W-James/Time-Travel-Roguelite-Game.svg?style=for-the-badge
