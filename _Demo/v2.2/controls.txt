@@ -1,0 +1,18 @@
+Keyboard Controls:
+-WASD/Arrow Keys: Move
+-Mouse: Aim
+-Left Click: Shoot
+-Right Click: Melee
+-Space: Time Ability (gives new abilities)
+-Shift: Dash
+
+Debug Controls:
+-L: Reload Level (may cause player to get stuck in terrain)
+
+Gamepad Controls (should be automatically detected):
+-Left Joystick: Move
+-Right Joystick: Aim
+-Right Bumper: Time Ability (gives new abilities)
+-Right Trigger: Shoot
+-X: Melee
+-Left Trigger: Dash
