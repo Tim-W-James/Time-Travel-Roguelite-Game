@@ -19,9 +19,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-<!--   <a href="https://github.com/Tim-W-James/Time-Travel-Roguelite-Game">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a> -->
+  <a href="https://github.com/Tim-W-James/Time-Travel-Roguelite-Game/images/logo.png">
+    <img src="images/logo.png" alt="Logo" width="120" height="120">
+  </a>
 
   <h2 align="center">Time Travel Roguelite Game</h2>
 
